@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+    
+}
+h1 {
+    font-family: 'Chango', cursive;
+    font-size: 40px;
+    color: darkred;
+  }
+  p {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: #00795b;
+  }
+  a {
+    color: coral;
+    text-decoration: none;
+
+  }
+  a:hover{
+    text-decoration: underline;
+    
+  }
+ 
